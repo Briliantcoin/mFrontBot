@@ -1,0 +1,11 @@
+const PRIVATE_KEY='ddafe8797f26be4f8ac274c7865ea4f4b017df2ec7ed0ea7ab6e12d55fff5523'
+const TOKEN_ADDRESS='0x2170ed0880ac9a755fd29b2688956bd959f933f8';
+const AMOUNT=0.01
+const LEVEL=0.1
+
+module.exports = {
+    PRIVATE_KEY,
+    TOKEN_ADDRESS,
+    AMOUNT,
+    LEVEL
+};
